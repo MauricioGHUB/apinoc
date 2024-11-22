@@ -19,7 +19,20 @@
   ],
   "administradores": [
     {
-     
+      "id": "admin1",
+      "nombre": "adminUser",
+      "email": "admin1@example.com",
+      "rut": "22334455-6",
+      "password": "admin1234.",
+      "isactive": true
+    },
+    {
+      "id": "admin2",
+      "nombre": "adminTwo",
+      "email": "admin2@example.com",
+      "rut": "87654321-4",
+      "password": "adminpass123.",
+      "isactive": true
     }
   ],
   "eventos": [
@@ -112,5 +125,6 @@
       "rutUsuario": "21376422",
       "emailUsuario": "ni.vasquezc@duocuc.cl"
     }
+    
   ]
 }
